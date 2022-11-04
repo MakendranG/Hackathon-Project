@@ -24,5 +24,6 @@ Amazon Pinpoint is an AWS service that you can use to communicate with your cust
 
 # Demo
 
-[![Sending Personalized eNotifications for the Community Events via Amazon Pinpoint](https://img.youtube.com/vi/fpZgc78L_J4/0.jpg)](http://www.youtube.com/watch?v=fpZgc78L_J4)
+[![Sending Personalized eNotifications for the Community Events via Amazon Pinpoint](https://img.youtube.com/vi/sYpKV16lIaU/0.jpg)](http://www.youtube.com/watch?v=sYpKV16lIaU)
+
 
