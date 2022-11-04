@@ -1,4 +1,4 @@
-# Sending Email Notifications for the Community Events via Amazon Pinpoint
+# Sending Personalized eNotifications for the Community Events via Amazon Pinpoint
 
 # Use Case
 
@@ -19,6 +19,10 @@ Amazon Pinpoint is an AWS service that you can use to communicate with your cust
 
 # Implementation
 
+[![Sending Personalized eNotifications via Amazon Pinpoint](https://img.youtube.com/vi/m5Fv0gdOtJo/0.jpg)](https://www.youtube.com/watch?v=m5Fv0gdOtJo)
+
 
 # Demo
+
+[![Sending Personalized eNotifications for the Community Events via Amazon Pinpoint](https://img.youtube.com/vi/fpZgc78L_J4/0.jpg)](http://www.youtube.com/watch?v=fpZgc78L_J4)
 
